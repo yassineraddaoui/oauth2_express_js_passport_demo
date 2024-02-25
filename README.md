@@ -1,4 +1,4 @@
-# MyProject
+# Auth using Oauth2(google) using passportjs
 
 In this project, I created a REST API using Node.js and Express.
 Then I protected some API routes behind authentication.
